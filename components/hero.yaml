@@ -1,0 +1,9 @@
+name: Hero
+fields:
+  - type: text
+    name: heading
+    label: Rubrik
+  - type: textarea
+    name: subheading
+    label: Underrubrik
+

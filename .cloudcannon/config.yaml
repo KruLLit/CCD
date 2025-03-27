@@ -1,0 +1,6 @@
+editor:
+  path: content
+  create: true
+  delete: true
+  data_config: true
+
